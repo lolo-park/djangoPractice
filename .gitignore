@@ -1,6 +1,6 @@
 ### Django ###
-idea/
-myvenv/
+*idea/
+*myvenv/
 .env
 *.log
 *.pot
