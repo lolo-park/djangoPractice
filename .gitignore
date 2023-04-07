@@ -1,6 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,vim,webstorm,macos,zsh,django,pycharm,pycharm+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,vim,webstorm,macos,zsh,django,pycharm,pycharm+all
 
+
+
+
+
 ### Django ###
 *.log
 *.pot
