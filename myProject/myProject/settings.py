@@ -80,6 +80,7 @@ DATABASES = {
         'USER': 'root',
         'PASSWORD': 'fnffn',
         'NAME': 'mydatabase',
+        'PORT': '3306',
         'TEST': {
             'NAME': "mytestdatabase",
         },
